@@ -1,0 +1,6 @@
+framework module Pods_TSPlayDemoUITests {
+  umbrella header "Pods-TSPlayDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_TSPlayDemoTests {
+  umbrella header "Pods-TSPlayDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
